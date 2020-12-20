@@ -1,7 +1,7 @@
 # whatsapp_online_tracker
 This simple app trackes the online status of a whatsapp number
 
-** Require python compiler on the PC. **
+***Require python compiler on the PC.***
 
 # How to use :-
 
