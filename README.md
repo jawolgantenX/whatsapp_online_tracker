@@ -8,6 +8,7 @@ How to use :-
 Step 1) Insert the number you want to track in script.py line 24 i.e. no = "WHATSAPP_NUMBER_YOU_WANT_TRACK"
 Step 2) Insert the country code in script.py line 20 i.e. select.select_by_visible_text("COUNTRY_CODE_AS_MENTIONED_IN_README")
 
+
 Country Codes are as follows :-
 
 Afghanistan - Afghanistan +93
