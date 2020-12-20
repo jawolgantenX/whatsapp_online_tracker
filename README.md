@@ -192,8 +192,8 @@ Step 2) Insert the country code in script.py line 20 i.e. select.select_by_visib
 - Romania - Romania +40
 - Russia - Russia +7
 - Rwanda - Rwanda +250
-- R�union - R�union +262
-- Saint - Saint Barth�lemy +590
+- Reunion - Reunion +262
+- Saint - Saint Barthelemy +590
 - Saint - Saint Helena, Ascension and Tristan Da Cunha +290
 - Saint - Saint Kitts and Nevis +1 869
 - Saint - Saint Lucia +1 758
