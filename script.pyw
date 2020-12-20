@@ -28,9 +28,9 @@ button = driver.find_element_by_class_name('btn')
 while(1):
     time.sleep(10)
     driver.execute_script("arguments[0].click();", button)
-    time.sleep(5)
     alert = driver.find_element_by_class_name('alert')
-    # Append-adds at last
-    file1 = open("result_"+no+".txt" , "a")  # append mode
-    file1.write(no+" -  "+alert.text+"\n")
-    file1.close()
+    if(prev != alert.text):
+        file1 = open("result_"+no+".txt" , "a")  # append mode
+        file1.write(no+" -  "+alert.text+"\n")
+        file1.close()
+        prev = alert.text
