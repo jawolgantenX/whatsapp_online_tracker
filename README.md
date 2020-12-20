@@ -1,12 +1,13 @@
 # whatsapp_online_tracker
 This simple app trackes the online status of a whatsapp number
 
-***Require python compiler on the PC.***
+***Download the script.exe file and chromedriver.exe and put them in same folder***
+
 
 # How to use :-
 
-- Step 1) Insert the number you want to track in script.py line 24 i.e. no = "WHATSAPP_NUMBER_YOU_WANT_TRACK"
-- Step 2) Insert the country code in script.py line 20 i.e. select.select_by_visible_text("COUNTRY_CODE_AS_MENTIONED_IN_README")
+- Step 1) Insert the country code exactly as mentioned below
+- Step 2) Insert the mobile number you want to track.
 
 
 # Country Codes are as follows :-
